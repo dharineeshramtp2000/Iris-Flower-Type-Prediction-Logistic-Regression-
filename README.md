@@ -1,6 +1,6 @@
 # Iris-Flower-Type-Prediction-Logistic-Regression-
 Predicting the  flower type of the Iris plant species using Logistic Regression
-[](https://www.gardendesign.com/pictures/images/275x275Exact_34x0/site_3/iris-louisiana-black-gamecock-iris-beardless-louisiana-iris-shutterstock-com_12592.jpg)
+![](https://www.gardendesign.com/pictures/images/275x275Exact_34x0/site_3/iris-louisiana-black-gamecock-iris-beardless-louisiana-iris-shutterstock-com_12592.jpg)
 ## Installation
 
 ### Requiremenmts
